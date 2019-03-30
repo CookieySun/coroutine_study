@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">coroutine_study</string>
+    <string name="get">get</string>
 </resources>
